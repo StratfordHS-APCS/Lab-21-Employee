@@ -1,5 +1,3 @@
-![Points badge](../../blob/badges/.github/badges/points.svg)
-
 # Lab ## - Template
 
 Template for Java labs
